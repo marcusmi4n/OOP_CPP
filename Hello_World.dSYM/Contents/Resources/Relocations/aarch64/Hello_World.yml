@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ucc_testbed/Documents/GiTHuB/OOP_CPP/Hello_World'
+relocations:     []
+...
